@@ -1,0 +1,1 @@
+<H1><b>Astar and Uniform Cost Search</b></H1><br> Astar and Uniform Cost Search are graph traversal and path search algorithms. Starting from a specific starting node of a graph, both algorithms aims to find a path to the given goal node having the smallest cost (least distance travelled, shortest time, etc.).<br><br> Both the algorithms are implemented in Python
