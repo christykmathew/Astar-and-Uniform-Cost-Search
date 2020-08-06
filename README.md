@@ -1,4 +1,6 @@
-<H1><b>A* Search and Uniform Cost Search</b></H1><br> A* Search and Uniform Cost Search are graph traversal and path search algorithms. Starting from a specific starting node of a graph, both algorithms aims to find a path to the given goal node having the smallest cost (least distance travelled, shortest time, etc.). Both the algorithms are implemented in Python
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8.3-blue"></a>
+# A* Search and Uniform Cost Search
+A* Search and Uniform Cost Search are graph traversal and path search algorithms. Starting from a specific starting node of a graph, both algorithms aims to find a path to the given goal node having the smallest cost (least distance travelled, shortest time, etc.). Both the algorithms are implemented in Python
 <br><br>
 
 The sample input contains the start_node, end_node, the costs and the heuristics. Change this input list to put in your custom graph
