@@ -1,4 +1,4 @@
-<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3-blue"></a>
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a>
 # A* Search and Uniform Cost Search
 A* Search and Uniform Cost Search are graph traversal and path search algorithms. Starting from a specific starting node of a graph, both algorithms aims to find a path to the given goal node having the smallest cost (least distance travelled, shortest time, etc.). Both the algorithms are implemented in Python
 <br><br>
